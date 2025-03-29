@@ -201,5 +201,5 @@ This repository is available under the MIT License. See [LICENSE](LICENSE) for m
 ---
 
 <p align="center">
-  <sub>✨ Made with magic by <a href="https://github.com/yourusername">your-username</a> ✨</sub>
+  <sub>✨ Made with magic by <a href="https://github.com/omidzamani">omidzamani</a> ✨</sub>
 </p>
